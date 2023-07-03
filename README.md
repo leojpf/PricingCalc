@@ -1,1 +1,1 @@
-# PricingCalc
+Queens lab, evaluation code.
